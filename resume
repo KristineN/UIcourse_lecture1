@@ -1,1 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Resume</title>
+</head>
+<body>
+	
 
+	<img style="float: left" src="http://d3eem0ukq5xlm2.cloudfront.net/assets/person-256-b9a79eac8b2c2ba1caca8a0c0e6b9209263245b3d7f0c1f272d5b53a84f11867.png" >
+
+		<h1 style="align: center;">Alex Blackwood</h1>
+
+		<h3 ><em>UI Designer / 2D ARTIST</em></h3>
+			<p><em>I'm a creative designer, who always strives for a new opportunity to advance personal skills/ I'm a creative designer, who always strives for a new opportunity to advance personal skillsI'm a creative designer, who always strives for a new opportunity to advance personal skills</em></p>
+				<p><img src="http://www.befrienders.org/content/themes/befrienders/images/icons-small-web.png">  79000 Lviv, str. Vashingtona<br>
+				   <img src="https://cdn4.iconfinder.com/data/icons/comfi-telecom-icons/telephone_receiver.png">  + 38 067 221 75 36<br>
+				   <img src="http://www.uitinwestvlaanderen.be/uploads/image/templates/basics/mail.png">  youremail@gmail.com</p><br>
+
+<fieldset>
+	<legend><b>EDUCATION</b></legend>
+		<ul>
+			<li><u>GIZMO BLENDER 3D <br></u>
+				<small>January 2016 - February 2016</small></li>
+			<li><u>LVIV IT SCHOOL UI/UX <br></u>
+				<small>November 2014 - February 2015</small></li>
+			<li><u>LVIV NATIONAL ACADEMY OF ART<br></u>
+				<small>September 2008 - June 2012</small></li>
+		</ul>
+</fieldset>
+
+<fieldset>
+	<legend><b>WORK EXPERIENCE</b></legend>
+		<ul>
+			<li><u>EJAW</u><br>
+				<small>February 2016 - May 2016</small></li>
+			<li><u>QUBSTUDIO</u><br>
+				<small>January 2015 - August 2015</small></li>
+			<li><u>FREELANCE</u><br>
+				<small>August 2013 - Current</small></li>
+		</ul>
+</fieldset>
+
+<fieldset>
+	<legend style="align: center"><b>LANGUAGES</b></legend>
+		<ul>
+			<li>ENGLISH - INTERMEDIATE</li>
+			<li>RUSSIA - FLUENT</li>
+			<li>UKRAINIAN - FLUENT</li>
+		</ul>
+</fieldset>
+
+<fieldset>
+	<legend><b>PORTFOLIO</b></legend>
+		<ul>
+			<li>BEHANCE: www.behance.net/....</li>
+			<li>DRIBBLE: dribble.com/....</li>
+		</ul>
+</fieldset>
+</body>
