@@ -9,17 +9,15 @@
 		<img src="http://d3eem0ukq5xlm2.cloudfront.net/assets/person-256-b9a79eac8b2c2ba1caca8a0c0e6b9209263245b3d7f0c1f272d5b53a84f11867.png" >
 			<h1>Alex Blackwood</h1>
 			<h4>UI Designer / 2D ARTIST</h4>
-			<p><img src="http://www.befrienders.org/content/themes/befrienders/images/icons-small-web.png">  79000 Lviv, str. Vashingtona<br>
+				<p><img src="http://www.befrienders.org/content/themes/befrienders/images/icons-small-web.png">  79000 Lviv, str. Vashingtona<br>
 				   <img src="https://cdn4.iconfinder.com/data/icons/comfi-telecom-icons/telephone_receiver.png">  + 38 067 221 75 36<br>
-				   </p>
-
+				</p>
 				   <hr>
 	</header>
 
 		<section>
 			<h3>SUMMARY</h3>
-
-			<p><em>I'm a creative designer, who always strives for a new opportunity to advance personal skills/ I'm a creative designer, who always strives for a new opportunity to advance personal skillsI'm a creative designer, who always strives for a new opportunity to advance personal skills</em></p>
+				<p><em>I'm a creative designer, who always strives for a new opportunity to advance personal skills/ I'm a creative designer, who always strives for a new opportunity to advance personal skillsI'm a creative designer, who always strives for a new opportunity to advance personal skills</em></p>
 			<hr>
 		</section>
 
@@ -33,7 +31,7 @@
 				<li><u>LVIV NATIONAL ACADEMY OF ART<br></u>
 					<small>September 2008 - June 2012</small></li>
 			</ul>
-				<hr>
+			<hr>
 
 			<b>WORK EXPERIENCE</b>
 			<ul>
@@ -44,7 +42,7 @@
 				<li><u>FREELANCE</u><br>
 					<small>August 2013 - Current</small></li>
 				</ul>
-		<hr>
+			<hr>
 			<b>LANGUAGES</b>
 			<ul>
 				<li>ENGLISH - INTERMEDIATE</li>
@@ -59,8 +57,9 @@
 			<li>DRIBBLE: dribble.com/....</li>
 		</article>
 			<hr>
+			
 		<footer>
-			CONTACT ME: <br>
+			<p><b>CONTACT ME:</b></p>
 				<address><img src="http://www.uitinwestvlaanderen.be/uploads/image/templates/basics/mail.png"> YOUREMAIL@GMAIL.COM &nbsp
 					<img src="http://files.softicons.com/download/web-icons/fatcow-hosting-additional-icons-by-fatcow/png/32x32/skype.png"> SVINDOM
 				</address>
